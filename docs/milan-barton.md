@@ -3,5 +3,6 @@
 Mana
 **programming**
 Favorite color: *green*
+age: 40
 
 @milangit
